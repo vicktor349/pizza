@@ -3,6 +3,7 @@
     background-color: #222;
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
+    margin-top: 20px;
 }
 .title{
     font-size: 18px;

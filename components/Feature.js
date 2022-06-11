@@ -25,7 +25,6 @@ const Feature = () => {
             setIndex(index !== 2 ? index+1 : 0)
         }
     }
-
   return (
     <>
         <div className={styles.container}>
